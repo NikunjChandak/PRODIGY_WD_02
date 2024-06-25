@@ -5,12 +5,12 @@ body {
     height: 100vh;
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #ececec;
+    background-color: aliceblue;
 }
 
 .stopwatch {
     text-align: center;
-    background: rgb(255, 75, 75);
+    background:  rgb(228, 198, 198);
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
